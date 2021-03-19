@@ -1,1 +1,1 @@
-# Task2-Html-CSS-and-bootstrap
+A web page desgin using HTML , CSS and bootstrap for a study house 
